@@ -9,9 +9,9 @@ Added typification for checkboxes and titles of the list items
 
 # 2 stage
 
-Edited list items with map method
-Added 2 lines for tasks 
-Added onClick to button and tied function removeTask with button X (delete)
-Added filters for buttons All, Active and Completed
+Edited list items with map method;
+Added 2 lines for tasks;
+Added onClick to button and tied function removeTask with button X (delete);
+Added filters for buttons All, Active and Completed;
 
 # 3stage
