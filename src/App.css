@@ -1,9 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .App {
   display: flex;
   justify-content: space-between;
-  flex-direction: column;
   width: 240px;
-  margin: auto;
+  gap: 50px;
+  margin-left: 50px;
   font-family: sans-serif;
   padding-top: 50px;
+}
+
+.error{
+  color: red;
+}
+
+.active-filter{
+  background-color:gold;
+}
+
+.is-done{
+  opacity: 0.5;
 }
