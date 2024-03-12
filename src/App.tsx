@@ -4,7 +4,7 @@ import { v1 } from 'uuid';
 
 import { TaskType, Todolist } from './Todolist/Todolist';
 import { AddItemForm } from './Todolist/AddItemForm';
-import { AppBar, Button, IconButton, Typography, Toolbar, Menu, Container, Grid, Paper } from '@mui/material';
+import { AppBar, Button, IconButton, Typography, Toolbar, Container, Grid, Paper } from '@mui/material';
 import MenuIcon from '@mui/icons-material/Menu';
 
 export type FilterValueType = 'all' | 'active' | 'completed';
